@@ -18,13 +18,7 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,aws,docker,git"/>
 </p>
 
-<p align="left">
-<a href="https://linkedin.com/in/tasmim-rahman-madha" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
-<a href="https://github.com/blankspace-tasss" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
-<a href="https://medium.com/@tasmimrahman86" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40"/></a>
-<a href="https://instagram.com/tasmim2.0" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
-<a href="https://www.behance.net/nottasmim" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=behance" alt="Behance" height="40"/></a>
-</p>
+
 
 ---
 
