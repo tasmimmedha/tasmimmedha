@@ -17,18 +17,50 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,aws,docker,git"/>
 </p>
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/tasmim-rahman-madha" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+<a href="https://github.com/blankspace-tasss" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
+<a href="https://medium.com/@tasmimrahman86" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40"/></a>
+<a href="https://instagram.com/tasmim2.0" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+<a href="https://www.behance.net/nottasmim" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=behance" alt="Behance" height="40"/></a>
+</p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blankspace-tasss&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankspace-tasss&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p> 
-## 🛠️ Core Stack
+---
 
-**Languages**: `Python` `SQL` `Java` `C++`  
-**ML**: `PyTorch` `TensorFlow` `Scikit-learn` `HuggingFace`  
-**MLOps**: `Docker` `AWS SageMaker` `MLflow` `GitHub Actions`  
-**Data**: `Pandas` `NumPy` `SQL` 
+### 🛠️ Tech Stack
+
+#### **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql" />
+</p>
+
+#### **AI/ML & Data Science**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+<p align="left">
+  Scikit-learn • NumPy • Pandas • Hugging Face Transformers • TensorFlow/Keras
+</p>
+
+#### **Cloud & MLOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+</p>
+<p align="left">
+  AWS SageMaker • GCP Vertex AI • Docker • Kubernetes • GitHub Actions • MLflow
+</p>
+
+#### **Development Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+<p align="left">
+  Git • GitHub • Jupyter Notebook • VS Code • Linux • Bash
+</p>
+
+
+
 
 Feel free to reach out on **LinkedIn** or email me at **nottasmim@gmail.com**
 
