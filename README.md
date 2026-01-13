@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasmim Rahman Medha</h1>
-<h3 align="center"> Hackathon Champion | AI/ML Engineer in Training | CSE '26 🚀</h3>
+<h3 align="center"> Hackathon Champion | AI/ML Engineer in Training | CSE '26 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blankspace-tasss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,aws,docker,git"/>
 </p>
-### 🤝 Connect with Me
+
 <p align="left">
 <a href="https://linkedin.com/in/tasmim-rahman-madha" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
 <a href="https://github.com/blankspace-tasss" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
