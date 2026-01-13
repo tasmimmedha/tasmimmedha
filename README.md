@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 <p align="left">
-  Git • GitHub • Jupyter Notebook • VS Code • Linux • Bash
+  Git • GitHub • Colab Notebook • VS Code • Linux • Bash
 </p>
 
 
