@@ -34,15 +34,15 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 <p align="left">
-  Scikit-learn • NumPy • Pandas • Hugging Face Transformers • TensorFlow/Keras
+   NumPy • Pandas • Hugging Face Transformers • TensorFlow/Keras
 </p>
 
 #### **Cloud & MLOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
 <p align="left">
-  AWS SageMaker • GCP Vertex AI • Docker • Kubernetes • GitHub Actions • MLflow
+  AWS SageMaker • Docker •  GitHub Actions • MLflow
 </p>
 
 #### **Development Tools**
