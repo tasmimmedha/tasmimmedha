@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasmim Rahman Medha</h1>
-<h3 align="center"> Hackathon Champion | AI/ML Engineer in Training | CSE '26 </h3>
+<h3 align="center"> Hackathon Champion | AI/ML Engineer in Training | CSE  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blankspace-tasss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,13 +9,13 @@
 
 ##  AI/ML Engineering Focus
 
-**3rd Year CSE | Recent Hackathon Champion | Building production ML systems**
-**Open for**: AI/ML projects • Hackathons • Internships • Collaborations
+**Final Year CSE | National Hackathon Champion | Building production ML systems| Building Cost-effective Model | R&D**
+**Open for**: AI/ML projects • Hackathons • Internships • Collaborations • Research publication • Strategic Brand Promoter
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,aws,docker,git"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,goggle colab,php"/>
 </p>
 
 
@@ -34,15 +34,15 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 <p align="left">
-   NumPy • Pandas • Hugging Face Transformers • TensorFlow/Keras
+   NumPy • Pandas • Hugging Face Transformers • TensorFlow
 </p>
 
 #### **Cloud & MLOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 <p align="left">
-  AWS SageMaker • Docker •  GitHub Actions • MLflow
+   Docker •  GitHub Actions • MLflow
 </p>
 
 #### **Development Tools**
