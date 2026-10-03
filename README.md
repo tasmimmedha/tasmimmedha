@@ -11,7 +11,7 @@
 
 **Final Year CSE | National Hackathon Champion | Building production ML systems| Building Cost-effective Model | R&D**
 
-**Open for**: AI/ML projects • Hackathons • Internships • Collaborations • Research publication • Strategic Brand Promoter
+**Open for**: AI/ML projects • Hackathons • Internships • Collaborations • Research publication 
 
 ---
 
